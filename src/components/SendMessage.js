@@ -22,8 +22,10 @@ function SendMessage({ scroll }) {
   return (
     <div>
       <form onSubmit={sendMessage}>
-        <Input value={msg} onChange={(e) => setMsg(e.target.value)} placeholder="Message..." />
-        <Button type="submit">Send</Button>
+        <div className="sendMessage">
+          <Input value={msg} onChange={(e) => setMsg(e.target.value)} placeholder="Message..." />
+          <Button type="submit">Send</Button>
+        </div>
       </form>
     </div>
   )
