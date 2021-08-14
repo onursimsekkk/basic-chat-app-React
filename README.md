@@ -1,10 +1,10 @@
 # Firebase Chat App
 
-Live: [Live Demo]: https://my-basic-chat-app-cc633.web.app/
+Live: https://my-basic-chat-app-cc633.web.app/
 
 ---
 
-![project_img](D:\Web Projects\React Projects\firebase-chat-app\project-img\project_img.PNG)
+![project_img](D:/Web Projects/React Projects/firebase-chat-app/project-img/project_img.PNG)
 
 # Getting Started with Create React App
 
